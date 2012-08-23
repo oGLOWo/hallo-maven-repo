@@ -9,7 +9,7 @@ Put this in your pom.xml
 <repositories>
     <repository>
         <id>hallo-maven-repo-releases</id>
-        <url>https://github.com/tapvox/hallo-maven-repo/raw/master/releases</url>
+        <url>https://github.com/halloinc/hallo-maven-repo/raw/master/releases</url>
     </repository>
 </repositories>
 ```
